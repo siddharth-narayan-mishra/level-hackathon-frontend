@@ -65,7 +65,7 @@ const App: React.FC = () => {
             <div className="flex items-center justify-between h-16">
               <div className="flex items-center">
                 <Sparkles className="h-8 w-8 text-primary" />
-                <span className="ml-2 text-xl font-bold">AI Assistant</span>
+                <span className="ml-2 text-xl font-bold">Social Media Performance Analysis</span>
               </div>
               <ModeToggle />
             </div>
